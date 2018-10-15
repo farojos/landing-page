@@ -15,8 +15,9 @@ class NavBar extends Component {
         data-bg-color="#1d1d1d"
       >
         <div className="container">
+          <img src="assets/img/logo-w.png" alt="" width="50px" height="50px"/>
           <a className="navbar-brand" href="#page-top">
-            <h3 className="logo">MedicineHub</h3>
+            <h3 className="logo">Anatomicis</h3>
           </a>
           <button
             className="navbar-toggler"

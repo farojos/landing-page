@@ -4,13 +4,9 @@ import imagesLoaded from "imagesloaded"
 import Header from "./components/header"
 import Benefits from "./components/benefits"
 import FriendLogos from "./components/friendsLogos"
-import Growth from "./components/growth"
 import AdvancedFeatures from "./components/advancedFeatures"
-import Pricing from "./components/pricing"
 import Download from "./components/download"
-import Suscribe from "./components/suscribe"
 import Clients from "./components/clients"
-import Organize from "./components/organize"
 import OurTeam from "./components/ourTeam"
 import Contact from "./components/contact"
 
@@ -70,14 +66,16 @@ class App extends Component {
               ref={this.AdvancedFeatures}
               {...content.advancedFeatures}
             />
-            <Pricing ref={this.Pricing} {...content.pricing} />
+            {
+              //<Pricing ref={this.Pricing} {...content.pricing} />
+            }
             <OurTeam ref={this.OurTeam} {...content.ourTeam} />
             <Download {...content.download} />
           </main>
           <footer id="ts-footer">
             <Contact ref={this.Contact} {...content.contact} />
             <div className="text-center text-white pb-5" data-bg-color="#000">
-              <small>© 2018 MedicineHub, All Rights Reserved</small>
+              <small>© 2018 Anatomicis, All Rights Reserved</small>
             </div>
           </footer>
         </div>

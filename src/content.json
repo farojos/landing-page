@@ -2,8 +2,8 @@
   {
     "lang": "es",
     "header": {
-      "title": "Desarrollo de recursos educativos que apoyan a la enseñanza de la morfología a nivel nacional y regional",
-      "subtitle": "Accede al mayor repositorio de recursos anatómicos físicos y virtuales de sudamérica. Experimenta el aprendizaje de Anatomía como nunca antes.",
+      "title": "Software de administración de cursos, para apoyo a la enseñanza de Anatomía líder en sudamérica",
+      "subtitle": "Administra y planifica tus clases de anatomía con contenido en la nube. Accede al mayor repositorio de recursos anatómicos en 3D y en Realidad Virtual de sudamérica. Experimenta el aprendizaje de Anatomía como nunca antes.      ",
       "learn": "Conoce Más",
       "video": {
         "button": "Video",
@@ -11,22 +11,25 @@
       },
       "backgroundPhoto": "assets/img/bg.jpg"
     },
+
+
+    
     "benefits": {
       "title": "¿Qué entregamos?",
       "elements": [
         {
-          "title": "Recursos anatómicos digitales",
-          "description": "Gran variedad de recursos anatómicos, que incluye contenido de aprendizaje en videos, imagenes, modelos 3D y más.",
-          "icon": "assets/img/anatomical-resources.png"
+          "title": "Administración de cursos",
+          "description": "Crea cursos, agrega alumnos, gestiona el contenido. Evalua y mucho más.",
+          "icon": "assets/img/building.jpg"
         },
         {
-          "title": "Modelos 3D de muestras cadavericas",
-          "description": "Todos nuestros modelos 3D se construyeron con tecnologías de alta presición, basados en preparaciones reales.",
+          "title": "Acceso a modelos 3D via MedicineHub",
+          "description": "Realiza clases con modelos 3D de alta fidelidad creados a partir de preparaciones anatómicas reales.",
           "icon": "assets/img/3dmodel.png"
         },
         {
-          "title": "Modelos Físicos",
-          "description": "Disponemos de packs de segmentos corporales modelados a partir de preparaciones anatómicas reales",
+          "title": "Paga sólo lo que usas",
+          "description": "Compra licencias via MedicineHub y estarán disponibles para su uso en esta plataforma.",
           "icon": "assets/img/3dprint.png"
         }
       ]
@@ -45,29 +48,34 @@
         "assets/img/uach.png",
         "assets/img/pucv.png",
         "assets/img/upla.png",
-        "assets/img/ucm.png"
+        "assets/img/ucm.png",
+        "assets/img/uv.png",
+        "assets/img/ua.png",
+        "assets/img/udm.png",
+        "assets/img/ucn.png"
       ]
     },
 
     "advancedFeatures": {
       "features": [
         {
-          "title": "Que es MedicineHub",
-          "description": "Utilizamos las últimas tecnologías para poder entregar los mejores recursos anatómicos en 3D y en Realidad Virtual para apoyar el aprendizaje de anatomía.",
+          "title": "Que es Anatomicis",
+          "description": "Plataforma para administración de cursos con contenido multimedia.",
           "elements": [
             "Presente en dispositivos moviles, web y desktop",
-            "Contenido autoexplicativo para mejorar la experiencia de aprendizaje"
+            "Pruebas online y offline"
           ],
-          "photo": "assets/img/what.jpg"
+          "photo": "assets/img/anatomicis-platform.png"
         },
         {
-          "title": "Modelos 3D Físicos y Digitales",
-          "description": "Disponemos de modelos en ambos formatos para mejorar el aprendizaje. Todos estos modelos fueron realizados con tecnologías de alta presición basados en muestras cadavericas reales.",
+          "title": "Acceso a modelos 3D mediante MedicineHub",
+          "description": "Acceso a modelos 3D rotulados construidos a partir de preparaciones anatómicas reales",
           "elements": [
-            "Modelos digitales rotulados con metadatos anatómicos",
-            "Maximiza tu experiencia de aprendizaje"
+            "Usa tu smartphone, tablet o pc para poder acceder a las mejores visualizaciones",
+            "Maximiza tu experiencia de aprendizaje",
+            "Tambien disponible en formato físico"
           ],
-          "photo": "assets/img/models.jpg"
+          "photo": "assets/img/resources.jpg"
         }
       ]
     },
@@ -111,7 +119,7 @@
 
     "ourTeam": {
       "title": "Nuestro Equipo",
-      "description": "El valor de MedicineHub está en nuestro equipo multidisciplinario: Escuela de Medicina, Ingeniería y Diseño",
+      "description": "El valor de Anatomicis está en nuestro equipo multidisciplinario: Escuela de Medicina, Ingeniería y Diseño",
       "photo": "assets/img/ourteam.jpg",
       "members": [
         {
@@ -142,7 +150,7 @@
       ]
     },
     "download": {
-      "title": "Prueba MedicineHub Ahora!",
+      "title": "Prueba Anatomicis Ahora!",
       "description": "Para mejorar la experiencia de aprendizaje, y que puedas acceder a nuestro contenido en cualquier condición",
       "button": "Buy Now!"
     },
